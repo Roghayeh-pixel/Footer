@@ -34,6 +34,7 @@ nav a :hover {
 .primary-link {
   border-radius: 4px;
   padding: 20px 15px;
+  margin: 10px 30px;
   text-decoration: none;
   text-align: center;
   text-transform: capitalize;
